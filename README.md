@@ -1,2 +1,0 @@
-# PacmanYeimhaf
-game bosan2
